@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TemperatureConverter.iml" filepath="$PROJECT_DIR$/.idea/modules/TemperatureConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TemperatureConverter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TemperatureConverter_main.iml" group="TemperatureConverter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TemperatureConverter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TemperatureConverter_test.iml" group="TemperatureConverter" />
+    </modules>
+  </component>
+</project>
