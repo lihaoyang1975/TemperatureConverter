@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TemperatureConverterSpec" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-12-12T05:50:43" hostname="lans-MacBook-Pro-2.local" time="0.101">
-  <properties/>
-  <testcase name="test temperature converter with invalid data" classname="TemperatureConverterSpec" time="0.089"/>
-  <testcase name="test Temperature Converter with valid data" classname="TemperatureConverterSpec" time="0.012"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
